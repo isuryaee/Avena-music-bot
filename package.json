@@ -1,0 +1,16 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">\r     <img style=\"border-radius: 20px\" src=\"https://i.ibb.co/gMD6XG54/Frame-69.jpg\" alt=\"pic\"/>\r </div>",
+  "main": "generate_po_token.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "youtube-po-token-generator": "^0.6.0"
+  }
+}
